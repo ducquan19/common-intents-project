@@ -186,4 +186,4 @@ By combining these four common intents, the MessengerApp achieves a **complete a
 
 - Sending and sharing messages.
 - Selecting or capturing photos.
-- Viewing media seamlessly.s
+- Viewing media seamlessly.
